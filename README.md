@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/avatar.png" alt="Jesús Martínez" width="150" style="border-radius:50%;" />
+  <img src="avatar.png" alt="Jesús Martínez" width="150" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">👋 Hi, I’m Jesús Martínez</h1>
