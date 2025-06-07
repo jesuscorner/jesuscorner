@@ -1,16 +1,38 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/avatar.png" alt="Jesús Martínez" width="150" style="border-radius:50%;" />
+</p>
 
+<h1 align="center">👋 Hi, I’m Jesús Martínez</h1>
+<p align="center">
+  <em>Computer Engineer passionate about innovation, continuous learning, and solving creative tech challenges.</em>
+</p>
+
+---
+
+<!-- 🚀 Featured Repos -->
 <!--
-**jesuscorner/jesuscorner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">🚀 Featured Projects</h2>
+<p align="center">
+  <a href="https://github.com/jesuscorner/uOSCORE-uEDHOC">uOSCORE-uEDHOC</a> • 
+  <a href="https://github.com/jesuscorner/edhoc-formal-verification">edhoc-formal-verification</a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 -->
+
+<!-- 📌 About Me -->
+## 📌 About Me
+
+I’m focused on developing and leading new projects that drive operational efficiency by integrating AI into processes, as well as information security, cryptography, and DevOps best practices.
+
+- 🤖 **AI & Automation:** Building intelligent workflows and prototypes.  
+- 🔐 **Cybersecurity & Cryptography:** Designing secure systems (COSE, TLS, PKI).  
+- ⚙️ **DevOps & Infra:** CI/CD, Docker, Kubernetes, Terraform & Linux/Windows Admin.  
+
+Every challenge is an opportunity to learn, innovate, and continuously improve.  
+I’m always eager to connect, share ideas, and explore what the limits of technological innovation truly are.
+
+---
+
+📫 **Let’s connect:**  
+[LinkedIn](https://www.linkedin.com/in/jmartinezmarin/) • [Email](mailto:youremail@domain.com)
