@@ -2,37 +2,40 @@
   <img src="avatar.png" alt="Jesús Martínez" width="150" style="border-radius:50%;" />
 </p>
 
-<h1 align="center">👋 Hi, I’m Jesús Martínez</h1>
+<h1 align="center">Hi, I’m Jesús Martínez 👋</h1>
 <p align="center">
-  <em>Computer Engineer passionate about innovation, continuous learning, and solving creative tech challenges.</em>
+  <em>Computer Engineer focused on systems architecture, automation, and applied AI.</em>
 </p>
 
 ---
 
-<!-- 🚀 Featured Repos -->
-<!--
-<h2 align="center">🚀 Featured Projects</h2>
-<p align="center">
-  <a href="https://github.com/jesuscorner/uOSCORE-uEDHOC">uOSCORE-uEDHOC</a> • 
-  <a href="https://github.com/jesuscorner/edhoc-formal-verification">edhoc-formal-verification</a>
-</p>
-
----
--->
-
-<!-- 📌 About Me -->
 ## 📌 About Me
 
-I’m focused on developing and leading new projects that drive operational efficiency by integrating AI into processes, as well as information security, cryptography, and DevOps best practices.
+I’m a Computer Engineer working at the intersection of **systems, automation, and real-world problem solving**.  
+My focus is on designing and evolving production systems that are reliable, secure, and maintainable over time.
 
-- 🤖 **AI & Automation:** Building intelligent workflows and prototypes.  
-- 🔐 **Cybersecurity & Cryptography:** Designing secure systems (COSE, TLS, PKI).  
-- ⚙️ **DevOps & Infra:** CI/CD, Docker, Kubernetes, Terraform & Linux/Windows Admin.  
+I enjoy working on projects where software, infrastructure, and business processes come together, and where technology is used pragmatically to improve efficiency, reduce complexity, and make systems easier to operate.
 
-Every challenge is an opportunity to learn, innovate, and continuously improve.  
-I’m always eager to connect, share ideas, and explore what the limits of technological innovation truly are.
+### What I usually work on
+
+- 🤖 **Automation & Applied AI**  
+  Designing intelligent workflows and practical AI integrations to optimize internal processes and decision-making.
+
+- 🔐 **Security & Cryptography**  
+  Secure communications, authentication and key exchange protocols (COSE, EDHOC, TLS, PKI), with a strong systems mindset.
+
+- ⚙️ **Systems & Infrastructure**  
+  Backend systems, Linux-based environments, containers, CI/CD pipelines, and production operations.
+
+I value **clarity, ownership, and continuous improvement**. I’m especially interested in long-term system design rather than quick fixes or hype-driven solutions.
 
 ---
 
-📫 **Let’s connect:**  
-[LinkedIn](https://www.linkedin.com/in/jmartinezmarin/) • [Email](mailto:youremail@domain.com)
+## 🚀 Selected Projects
+- [uOSCORE-uEDHOC](https://github.com/jesuscorner/uOSCORE-uEDHOC) – Lightweight security protocols for constrained environments  
+- [edhoc-formal-verification](https://github.com/jesuscorner/edhoc-formal-verification) – Formal analysis of EDHOC properties
+
+---
+
+📫 **Let’s connect**  
+[LinkedIn](https://www.linkedin.com/in/jmartinezmarin/) • [Email](mailto:j.martinezmarin.m@gmail.com)
