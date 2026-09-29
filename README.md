@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jesuscorner/jesuscorner/main/assets/profile-header-dark.png">
-  <img src="https://raw.githubusercontent.com/jesuscorner/jesuscorner/main/assets/profile-header-light.png" alt="Jesús Martínez Marín, co-founder at Dynaptia. Applied AI, from concept to production." width="1280">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jesuscorner/jesuscorner/main/assets/profile-header-dark.png?v=2">
+  <img src="https://raw.githubusercontent.com/jesuscorner/jesuscorner/main/assets/profile-header-light.png?v=2" alt="Jesús Martínez Marín, co-founder at Dynaptia. Applied AI, from concept to production." width="1280">
 </picture>
 
 # Jesús Martínez Marín
