@@ -1,41 +1,38 @@
-<p align="center">
-  <img src="avatar.png" alt="Jesús Martínez" width="150" style="border-radius:50%;" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jesuscorner/jesuscorner/main/assets/profile-header-dark.png">
+  <img src="https://raw.githubusercontent.com/jesuscorner/jesuscorner/main/assets/profile-header-light.png" alt="Jesús Martínez Marín, co-founder at Dynaptia. Applied AI, from concept to production." width="1280">
+</picture>
 
-<h1 align="center">Hi, I’m Jesús Martínez 👋</h1>
-<p align="center">
-  <em>Computer Engineer focused on systems architecture, automation, and applied AI.</em>
-</p>
+# Jesús Martínez Marín
 
----
+**Co-founder at [Dynaptia](https://www.dynaptia.es/) · Applied AI & Software Engineer**
 
-## 📌 About Me
+I turn operational problems into software and AI systems that run in production. My work spans architecture, backend development, evaluation, deployment and day-to-day operation.
 
-I’m a Computer Engineer working at the intersection of **systems, automation, and real-world problem solving**.  
-My focus is on designing and evolving production systems that are reliable, secure, and maintainable over time.
+At Dynaptia, I build AI agents, retrieval-augmented generation (RAG) systems and automation connected to business data, APIs and ERP workflows.
 
-I enjoy working on projects where software, infrastructure, and business processes come together, and where technology is used pragmatically to improve efficiency, reduce complexity, and make systems easier to operate.
+## What I build
 
-### What I usually work on
+- **AI agents and knowledge systems** — tool-using assistants, retrieval pipelines, semantic search and persistent memory, with evaluation and observability.
+- **Backend and integrations** — APIs, data workflows, Odoo/ERP integrations and automation across business systems and communication channels.
+- **Production infrastructure** — Linux services, containers, API gateways, monitoring and reliable deployment workflows.
 
-- 🤖 **Automation & Applied AI**  
-  Designing intelligent workflows and practical AI integrations to optimize internal processes and decision-making.
+I care about making systems useful, maintainable and understandable to the people who operate them.
 
-- 🔐 **Security & Cryptography**  
-  Secure communications, authentication and key exchange protocols (COSE, EDHOC, TLS, PKI), with a strong systems mindset.
+## Tools I work with
 
-- ⚙️ **Systems & Infrastructure**  
-  Backend systems, Linux-based environments, containers, CI/CD pipelines, and production operations.
+**Backend & data:** Python · FastAPI · PostgreSQL · pgvector · Qdrant<br>
+**Integration & operations:** Odoo · REST APIs · Linux · Docker · Apache APISIX · Git
 
-I value **clarity, ownership, and continuous improvement**. I’m especially interested in long-term system design rather than quick fixes or hype-driven solutions.
+## Security foundations
 
----
+My background also includes secure communications and protocol analysis. These public repositories collect work around constrained-device security and formal verification:
 
-## 🚀 Selected Projects
-- [uOSCORE-uEDHOC](https://github.com/jesuscorner/uOSCORE-uEDHOC) – Lightweight security protocols for constrained environments  
-- [edhoc-formal-verification](https://github.com/jesuscorner/edhoc-formal-verification) – Formal analysis of EDHOC properties
+- [uOSCORE-uEDHOC](https://github.com/jesuscorner/uOSCORE-uEDHOC) — environments and tooling for working with OSCORE and EDHOC implementations.
+- [edhoc-formal-verification](https://github.com/jesuscorner/edhoc-formal-verification) — EDHOC models and verification scripts based on the upstream research credited in the repository.
 
----
+## Connect
 
-📫 **Let’s connect**  
-[LinkedIn](https://www.linkedin.com/in/jmartinezmarin/) • [Email](mailto:j.martinezmarin.m@gmail.com)
+Interested in collaborating on applied AI, automation or production software?
+
+[Dynaptia](https://www.dynaptia.es/) · [LinkedIn](https://www.linkedin.com/in/jmartinezmarin/)
