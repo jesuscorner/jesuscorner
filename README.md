@@ -35,4 +35,4 @@ My background also includes secure communications and protocol analysis. These p
 
 Interested in collaborating on applied AI, automation or production software?
 
-[Dynaptia](https://www.dynaptia.es/) · [LinkedIn](https://www.linkedin.com/in/jmartinezmarin/)
+[Dynaptia](https://www.dynaptia.es/) · [LinkedIn](https://www.linkedin.com/in/jmartinezmarin/) · [X](https://x.com/_jsuscorner_)
