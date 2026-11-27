@@ -1,38 +1,38 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jesuscorner/jesuscorner/main/assets/profile-header-dark.png?v=2">
-  <img src="https://raw.githubusercontent.com/jesuscorner/jesuscorner/main/assets/profile-header-light.png?v=2" alt="Jesús Martínez Marín, co-founder at Dynaptia. Applied AI, from concept to production." width="1280">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jesuscorner/jesuscorner/main/assets/profile-header-dark.png?v=3">
+  <img src="https://raw.githubusercontent.com/jesuscorner/jesuscorner/main/assets/profile-header-light.png?v=3" alt="Jesús Martínez Marín, cofundador de Dynaptia. IA en producción, no en una demo." width="1280">
 </picture>
 
 # Jesús Martínez Marín
 
-**Co-founder at [Dynaptia](https://www.dynaptia.es/) · Applied AI & Software Engineer**
+**Cofundador de [Dynaptia](https://www.dynaptia.es/) · Ingeniero de software e IA aplicada**
 
-I turn operational problems into software and AI systems that run in production. My work spans architecture, backend development, evaluation, deployment and day-to-day operation.
+Convierto problemas de operación en software y sistemas de IA que funcionan en producción. Mi trabajo abarca arquitectura, desarrollo backend, evaluación, despliegue y operación diaria.
 
-At Dynaptia, I build AI agents, retrieval-augmented generation (RAG) systems and automation connected to business data, APIs and ERP workflows.
+En Dynaptia construyo agentes de IA, sistemas de generación aumentada por recuperación (RAG) y automatizaciones conectadas a los datos de la empresa, sus APIs y sus flujos de ERP.
 
-## What I build
+## Qué construyo
 
-- **AI agents and knowledge systems** — tool-using assistants, retrieval pipelines, semantic search and persistent memory, with evaluation and observability.
-- **Backend and integrations** — APIs, data workflows, Odoo/ERP integrations and automation across business systems and communication channels.
-- **Production infrastructure** — Linux services, containers, API gateways, monitoring and reliable deployment workflows.
+- **Agentes de IA y sistemas de conocimiento**: asistentes que usan herramientas, flujos de recuperación, búsqueda semántica y memoria persistente, con evaluación y observabilidad.
+- **Backend e integraciones**: APIs, flujos de datos, integraciones con Odoo y otros ERP, y automatización entre sistemas de negocio y canales de comunicación.
+- **Infraestructura de producción**: servicios Linux, contenedores, pasarelas de API, monitorización y despliegues fiables.
 
-I care about making systems useful, maintainable and understandable to the people who operate them.
+Me importa que los sistemas sean útiles, mantenibles y comprensibles para quienes los operan.
 
-## Tools I work with
+## Herramientas con las que trabajo
 
-**Backend & data:** Python · FastAPI · PostgreSQL · pgvector · Qdrant<br>
-**Integration & operations:** Odoo · REST APIs · Linux · Docker · Apache APISIX · Git
+**Backend y datos:** Python · FastAPI · PostgreSQL · pgvector · Qdrant<br>
+**Integración y operación:** Odoo · APIs REST · Linux · Docker · Apache APISIX · Git
 
-## Security foundations
+## Base en seguridad
 
-My background also includes secure communications and protocol analysis. These public repositories collect work around constrained-device security and formal verification:
+También vengo de las comunicaciones seguras y el análisis de protocolos. Estos repositorios públicos reúnen trabajo sobre seguridad en dispositivos con recursos limitados y verificación formal:
 
-- [uOSCORE-uEDHOC](https://github.com/jesuscorner/uOSCORE-uEDHOC) — environments and tooling for working with OSCORE and EDHOC implementations.
-- [edhoc-formal-verification](https://github.com/jesuscorner/edhoc-formal-verification) — EDHOC models and verification scripts based on the upstream research credited in the repository.
+- [uOSCORE-uEDHOC](https://github.com/jesuscorner/uOSCORE-uEDHOC): entornos y herramientas para trabajar con implementaciones de OSCORE y EDHOC.
+- [edhoc-formal-verification](https://github.com/jesuscorner/edhoc-formal-verification): modelos de EDHOC y scripts de verificación basados en la investigación original que se cita en el repositorio.
 
-## Connect
+## Contacto
 
-Interested in collaborating on applied AI, automation or production software?
+¿Te interesa colaborar en IA aplicada, automatización o software en producción?
 
 [Dynaptia](https://www.dynaptia.es/) · [LinkedIn](https://www.linkedin.com/in/jmartinezmarin/) · [X](https://x.com/_jsuscorner_)
