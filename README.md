@@ -26,7 +26,7 @@ Me importa que los sistemas sean útiles, mantenibles y comprensibles para quien
 
 ## Proyectos abiertos
 
-- [Memory Hub](https://github.com/jesuscorner/memory-hub): capa de memoria para agentes de IA con Postgres, pgvector y Qdrant opcional, búsqueda híbrida, servidor MCP, SDK en TypeScript y banco de evaluación. La usamos en producción en Dynaptia.
+- [Memory Hub](https://github.com/jesuscorner/memory-hub): capa de memoria para agentes de IA con Postgres, pgvector y Qdrant opcional, búsqueda híbrida, servidor MCP, SDK en TypeScript y banco de evaluación. La construí para los agentes internos de Dynaptia, donde estuvo en producción.
 
 ## Base en seguridad
 
