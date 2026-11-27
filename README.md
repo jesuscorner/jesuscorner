@@ -27,6 +27,7 @@ Me importa que los sistemas sean útiles, mantenibles y comprensibles para quien
 ## Proyectos abiertos
 
 - [Memory Hub](https://github.com/jesuscorner/memory-hub): capa de memoria para agentes de IA con Postgres, pgvector y Qdrant opcional, búsqueda híbrida, servidor MCP, SDK en TypeScript y banco de evaluación. La construí para los agentes internos de Dynaptia, donde estuvo en producción.
+- [odoo-mcp-readonly](https://github.com/jesuscorner/odoo-mcp-readonly): servidor MCP para que asistentes como Claude o ChatGPT consulten Odoo sin poder escribir, con lista de modelos y campos permitidos, límites y OAuth. Sale del MCP que usamos en producción en Dynaptia.
 
 ## Base en seguridad
 
