@@ -24,6 +24,10 @@ Me importa que los sistemas sean útiles, mantenibles y comprensibles para quien
 **Backend y datos:** Python · FastAPI · PostgreSQL · pgvector · Qdrant<br>
 **Integración y operación:** Odoo · APIs REST · Linux · Docker · Apache APISIX · Git
 
+## Proyectos abiertos
+
+- [Memory Hub](https://github.com/jesuscorner/memory-hub): capa de memoria para agentes de IA con Postgres, pgvector y Qdrant opcional, búsqueda híbrida, servidor MCP, SDK en TypeScript y banco de evaluación. La usamos en producción en Dynaptia.
+
 ## Base en seguridad
 
 También vengo de las comunicaciones seguras y el análisis de protocolos. Estos repositorios públicos reúnen trabajo sobre seguridad en dispositivos con recursos limitados y verificación formal:
